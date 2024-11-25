@@ -1,27 +1,28 @@
 # Expense Tracker
-A simple, yet powerful, web-based application to track your daily income and expenses. This project dynamically calculates your total balance, income, and expenses, while also allowing you to manage transactions efficiently. Built with HTML, CSS, and JavaScript, the app is lightweight and works seamlessly across devices.
+- A simple, yet powerful, web-based application to track your daily income and expenses. This project dynamically calculates your total balance, income, and expenses, while also allowing you to manage 
+  transactions efficiently. Built with HTML, CSS, and JavaScript, the app is lightweight and works seamlessly across devices.
 
-Features
+## Features
 ✅ Add Transactions
-Record income or expense transactions with ease, complete with descriptions and amounts.
+- Record income or expense transactions with ease, complete with descriptions and amounts.
 
 ✅ Dynamic Calculations
-Automatically calculates your:
+- Automatically calculates your:
 
-Total Balance: Reflects your current financial status.
-Total Income: Sum of all income transactions.
-Total Expense: Sum of all expense transactions.
+- Total Balance: Reflects your current financial status.
+- Total Income: Sum of all income transactions.
+- Total Expense: Sum of all expense transactions.
 ✅ Transaction History
-View a clear list of all your transactions, with income in green and expenses in red.
+- View a clear list of all your transactions, with income in green and expenses in red.
 
 ✅ Delete Transactions
-Remove transactions that you no longer need with a single click.
+- Remove transactions that you no longer need with a single click.
 
 ✅ Persistent Data
-All data is stored in your browser's local storage, ensuring it remains available even after you close or refresh the app.
+- All data is stored in your browser's local storage, ensuring it remains available even after you close or refresh the app.
 
 ✅ Responsive Design
-Optimized for desktop and mobile devices, ensuring accessibility and ease of use.
+- Optimized for desktop and mobile devices, ensuring accessibility and ease of use.
 
 Screenshots
 📸 Dashboard View
